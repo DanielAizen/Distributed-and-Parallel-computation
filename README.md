@@ -12,12 +12,12 @@ Using MPI in order to communicate between 2 process and sending/reciving data - 
 program on 2 computers (using virtual machines) and reciving the same result.
 
 ## Getting Started
-*Using Windows:
-  *my advice is to use VScode - in order to be able to run it best use WSL2, install Microsoft MPI and CUDA.
-*Using UNIX:
-  *sudo apt-get update -y
-  *sudo apt-get install -y mpi
-  *for cuda - https://docs.vmware.com/en/VMware-vSphere-Bitfusion/3.0/Example-Guide/GUID-ABB4A0B1-F26E-422E-85C5-BA9F2454363A.html
+* Using Windows:
+  * my advice is to use VScode - in order to be able to run it best use WSL2, install Microsoft MPI and CUDA.
+* Using UNIX:
+  * sudo apt-get update -y
+  * sudo apt-get install -y mpi
+  * for cuda - https://docs.vmware.com/en/VMware-vSphere-Bitfusion/3.0/Example-Guide/GUID-ABB4A0B1-F26E-422E-85C5-BA9F2454363A.html
 ### Executing program
 
 * There is a makefile - in the same dirctory as the executable open a terminal
