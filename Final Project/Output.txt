@@ -1,0 +1,2 @@
+Mutant sequence: QYHERTHTGEKPYECHQCGHAFKHCSLLQRH
+offset is: 4	allinment score: 27.000000
